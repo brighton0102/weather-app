@@ -1,0 +1,18 @@
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(75, 103, 179);
+  padding: 20px;
+}
+
+.navhead {
+  padding-left: 38px;
+  font-size: 20px;
+}
+
+.nav-icons {
+  display: flex;
+  gap: 20px;
+  padding-right: 10px;
+}
