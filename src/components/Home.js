@@ -54,19 +54,20 @@ function Home() {
 
   return (
     <div className="container">
-      <p className="title">Get live weather data by City name</p>
-      <input
-        type="text"
-        placeholder="Enter city name"
-        value={selectedCity}
-        onChange={handleCityChange}
-      />
-      <ul className="cards">
-        {filteredCities.map((city) => (
-          <li key={city} className="card">
+    <p className="title">Get live weather data by City name</p>
+    <input
+      type="text"
+      placeholder="Enter city name"
+      value={selectedCity}
+      onChange={handleCityChange}
+    />
+    <ul className="cards">
+      {filteredCities.map((city) => (
+        <li key={city} className="card">
+          <Link to={`/details/${city}`}>
             {weatherData[city] ? (
               <>
-                <Link to={`/details/${city}`}><FontAwesomeIcon icon={faArrowCircleRight} className="angle-arrow" /></Link>
+                <FontAwesomeIcon icon={faArrowCircleRight} className="angle-arrow" />
                 <p>
                   <strong>City:</strong>
                   {' '}
@@ -93,10 +94,11 @@ function Home() {
             ) : (
               <div className="loading-spinner" />
             )}
-          </li>
-        ))}
-      </ul>
-    </div>
+          </Link>
+        </li>
+      ))}
+    </ul>
+  </div>
   );
 }
 
