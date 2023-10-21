@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home component renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <p
+      class="title"
+    >
+      Get live weather data by City name
+    </p>
+    <input
+      placeholder="Enter city name"
+      type="text"
+      value=""
+    />
+    <ul
+      class="cards"
+    />
+  </div>
+</div>
+`;
