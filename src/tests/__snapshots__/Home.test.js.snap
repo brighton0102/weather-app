@@ -20,7 +20,7 @@ exports[`Home component renders correctly 1`] = `
     >
       <li
         class="card"
-        style="background-color: rgb(255, 221, 170);"
+        style="background-color: rgb(231, 90, 135);"
       >
         <div
           class="loading-spinner"
@@ -42,7 +42,7 @@ exports[`Home component renders correctly 1`] = `
       </li>
       <li
         class="card"
-        style="background-color: rgb(255, 221, 170);"
+        style="background-color: rgb(231, 90, 135);"
       >
         <div
           class="loading-spinner"
@@ -50,37 +50,7 @@ exports[`Home component renders correctly 1`] = `
       </li>
       <li
         class="card"
-        style="background-color: rgb(255, 221, 170);"
-      >
-        <div
-          class="loading-spinner"
-        />
-      </li>
-      <li
-        class="card"
-      >
-        <div
-          class="loading-spinner"
-        />
-      </li>
-      <li
-        class="card"
-      >
-        <div
-          class="loading-spinner"
-        />
-      </li>
-      <li
-        class="card"
-        style="background-color: rgb(255, 221, 170);"
-      >
-        <div
-          class="loading-spinner"
-        />
-      </li>
-      <li
-        class="card"
-        style="background-color: rgb(255, 221, 170);"
+        style="background-color: rgb(231, 90, 135);"
       >
         <div
           class="loading-spinner"
@@ -102,7 +72,7 @@ exports[`Home component renders correctly 1`] = `
       </li>
       <li
         class="card"
-        style="background-color: rgb(255, 221, 170);"
+        style="background-color: rgb(231, 90, 135);"
       >
         <div
           class="loading-spinner"
@@ -110,37 +80,7 @@ exports[`Home component renders correctly 1`] = `
       </li>
       <li
         class="card"
-        style="background-color: rgb(255, 221, 170);"
-      >
-        <div
-          class="loading-spinner"
-        />
-      </li>
-      <li
-        class="card"
-      >
-        <div
-          class="loading-spinner"
-        />
-      </li>
-      <li
-        class="card"
-      >
-        <div
-          class="loading-spinner"
-        />
-      </li>
-      <li
-        class="card"
-        style="background-color: rgb(255, 221, 170);"
-      >
-        <div
-          class="loading-spinner"
-        />
-      </li>
-      <li
-        class="card"
-        style="background-color: rgb(255, 221, 170);"
+        style="background-color: rgb(231, 90, 135);"
       >
         <div
           class="loading-spinner"
@@ -162,7 +102,7 @@ exports[`Home component renders correctly 1`] = `
       </li>
       <li
         class="card"
-        style="background-color: rgb(255, 221, 170);"
+        style="background-color: rgb(231, 90, 135);"
       >
         <div
           class="loading-spinner"
@@ -170,37 +110,7 @@ exports[`Home component renders correctly 1`] = `
       </li>
       <li
         class="card"
-        style="background-color: rgb(255, 221, 170);"
-      >
-        <div
-          class="loading-spinner"
-        />
-      </li>
-      <li
-        class="card"
-      >
-        <div
-          class="loading-spinner"
-        />
-      </li>
-      <li
-        class="card"
-      >
-        <div
-          class="loading-spinner"
-        />
-      </li>
-      <li
-        class="card"
-        style="background-color: rgb(255, 221, 170);"
-      >
-        <div
-          class="loading-spinner"
-        />
-      </li>
-      <li
-        class="card"
-        style="background-color: rgb(255, 221, 170);"
+        style="background-color: rgb(231, 90, 135);"
       >
         <div
           class="loading-spinner"
@@ -222,7 +132,7 @@ exports[`Home component renders correctly 1`] = `
       </li>
       <li
         class="card"
-        style="background-color: rgb(255, 221, 170);"
+        style="background-color: rgb(231, 90, 135);"
       >
         <div
           class="loading-spinner"
@@ -230,7 +140,7 @@ exports[`Home component renders correctly 1`] = `
       </li>
       <li
         class="card"
-        style="background-color: rgb(255, 221, 170);"
+        style="background-color: rgb(231, 90, 135);"
       >
         <div
           class="loading-spinner"
@@ -252,7 +162,97 @@ exports[`Home component renders correctly 1`] = `
       </li>
       <li
         class="card"
-        style="background-color: rgb(255, 221, 170);"
+        style="background-color: rgb(231, 90, 135);"
+      >
+        <div
+          class="loading-spinner"
+        />
+      </li>
+      <li
+        class="card"
+        style="background-color: rgb(231, 90, 135);"
+      >
+        <div
+          class="loading-spinner"
+        />
+      </li>
+      <li
+        class="card"
+      >
+        <div
+          class="loading-spinner"
+        />
+      </li>
+      <li
+        class="card"
+      >
+        <div
+          class="loading-spinner"
+        />
+      </li>
+      <li
+        class="card"
+        style="background-color: rgb(231, 90, 135);"
+      >
+        <div
+          class="loading-spinner"
+        />
+      </li>
+      <li
+        class="card"
+        style="background-color: rgb(231, 90, 135);"
+      >
+        <div
+          class="loading-spinner"
+        />
+      </li>
+      <li
+        class="card"
+      >
+        <div
+          class="loading-spinner"
+        />
+      </li>
+      <li
+        class="card"
+      >
+        <div
+          class="loading-spinner"
+        />
+      </li>
+      <li
+        class="card"
+        style="background-color: rgb(231, 90, 135);"
+      >
+        <div
+          class="loading-spinner"
+        />
+      </li>
+      <li
+        class="card"
+        style="background-color: rgb(231, 90, 135);"
+      >
+        <div
+          class="loading-spinner"
+        />
+      </li>
+      <li
+        class="card"
+      >
+        <div
+          class="loading-spinner"
+        />
+      </li>
+      <li
+        class="card"
+      >
+        <div
+          class="loading-spinner"
+        />
+      </li>
+      <li
+        class="card"
+        style="background-color: rgb(231, 90, 135);"
       >
         <div
           class="loading-spinner"

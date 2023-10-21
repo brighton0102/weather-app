@@ -29,6 +29,10 @@ export const fetchCityWeatherAsync = createAsyncThunk(
   },
 );
 
+export const resetCities = () => (dispatch) => {
+  dispatch({ type: 'weather/resetCities' });
+}; // New code introduced
+
 // create a slice for weather data
 const weatherSlice = createSlice({
   name: 'weather',

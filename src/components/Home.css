@@ -4,10 +4,11 @@
   margin: 0;
   padding: 0;
   font-family: 'Poppins', sans-serif;
+  color: white;
 }
 
 body {
-  background-image: url('../features/pexels-janez-podnar-1424246.jpg');
+  background-image: url('../features/maroon.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -35,7 +36,7 @@ input[type=text] {
 }
 
 .angle-arrow {
-  color: #007bff;
+  color: white;
   font-size: 20px;
   position: relative;
   left: 45%;
@@ -52,13 +53,16 @@ input[type=text] {
   padding: 8px;
   width: calc(50% - 24px);
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  background-color: rgb(75, 103, 179);
+  background-color: rgba(202, 69, 111, 1);
   display: inline-block;
   vertical-align: top;
 }
 
 .card p {
   padding: 1px 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .details-link {

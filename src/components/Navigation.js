@@ -8,12 +8,12 @@ function Navigation() {
     <nav>
       <div className="nav-container">
         <Link to="/">
-          <IoIosArrowBack size={30} color="#007bff" />
+          <IoIosArrowBack size={30} color="white" />
         </Link>
         <p className="navhead">CityWeather</p>
         <div className="nav-icons">
-          <IoMdMic size={24} color="green" />
-          <IoMdSettings size={24} color="red" />
+          <IoMdMic size={24} color="white" />
+          <IoMdSettings size={24} color="white" />
         </div>
       </div>
     </nav>

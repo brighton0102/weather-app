@@ -126,7 +126,7 @@ Example command:
 
 ```sh
   cd my-project
-  gem install
+  npm install
 ```
 --->
 
@@ -154,6 +154,7 @@ npm run build start
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+**[ User Sign Up]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

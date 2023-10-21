@@ -2,13 +2,12 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 12px 0;
+  margin: 20px 0;
 }
 
 .second-card {
-  background-color: rgb(75, 103, 179);
-  width: 88%;
-  margin: 2px 0;
+  background-color: rgba(202, 69, 111, 1);
+  width: 100%;
   padding: 20px 0;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
@@ -24,7 +23,7 @@
 
 .second-title {
   font-family: 'Raleway', sans-serif;
-  color: black;
+  color: white;
   font-size: 20px;
   padding-top: 10px;
 }

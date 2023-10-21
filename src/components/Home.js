@@ -26,7 +26,7 @@ function Home() {
 
     cards.forEach((card, index) => {
       if (index % 4 === 0 || index % 4 === 3) {
-        card.style.backgroundColor = '#fda';
+        card.style.backgroundColor = 'rgba(231, 90, 135, 1)';
       }
     });
   }, [cities]);
